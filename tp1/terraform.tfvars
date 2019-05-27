@@ -1,0 +1,5 @@
+project     = "coursterraform2"
+region      = "europe-west1"
+zone        = "europe-west1-b"
+gce_ssh_user   = "user01"
+gce_ssh_pub_key_file = "../../.ssh/id_rsa.pub"

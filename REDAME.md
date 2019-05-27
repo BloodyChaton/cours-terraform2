@@ -1,0 +1,1 @@
+Create a network a subnetwork, a firewall rule and a VM
